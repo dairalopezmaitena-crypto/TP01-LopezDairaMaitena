@@ -1,0 +1,16 @@
+Informe de Accecibilidad 
+
+A. ¿Por que es importante agregar el atributo  lang en la etiqueta html?
+R: El atributo lang indica el idioma principal del contenido, lo que ayuda a lectores de pantalla y traductores automaticos a interpretar correctamente el texto.
+
+B. ¿En que afecta que las imagenes no tengan el atributo alt?
+R: Si las imagenes no tienen alt, las personas que usan lectores de pantalla no sabran que muestran. Ademas,afecta la accebilidad y el SEO del sitio.
+
+C. ¿En que ayuda tener establecida la etiqueta title que va en el head?
+R: La etiqueta title proporciona un titulo descriptivo para la pagina, que aparece en la pestaña del navegador y en los resultados de busqueda, mejorando la navegacion y comprension del contenido.
+
+D. ¿Que beneficio aporta tener correctamente colocadas las distintas etiquetas h1,h2,h3?
+R: Organiza el contenido jerarquicamente, facilita la lectura a usuarios y lectores de pantalla, y mejora la estructura del sitio para SEO y accesibilidad?
+
+E. ¿Un menu correcto, aporta a cual de las 4 caracteristicas de ONTI N° 2/2014?
+R: Apoya la caracteristica de "Navegable", permitiendo que el usuario se mueva facilmente por el contenido del sitio.
